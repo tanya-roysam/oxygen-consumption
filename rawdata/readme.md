@@ -9,4 +9,4 @@ ctnt signal-rounded percent- above scaled value rounded to the nearest 10%, *100
 
 Ctrl wells marked with 'CTRL'
 
-All measurements are o2 flux
+All measurements are o2 flux, *raw*. *No* peak removal/smoothing/etc
