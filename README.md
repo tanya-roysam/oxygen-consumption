@@ -13,3 +13,5 @@ October data can be found in 'oct' folder**
 
 
 EMD data and feature extraction (Catch22) found in emd folders. Two interpolation methods were attempted, pchip and cubic spline. pchip looks better
+
+rawdata folder is full of old data, no cTnT quantification and it is more qualitative classification of quality
