@@ -9,7 +9,7 @@
 - wellNum: the well number 
 - all data after is flux data, one observation recorded per 15 minutes
 
-**This does not include the october data as we have not stained/imaged/quantified cTnT as of today 10/21/22
+**10/24/22 update: cTnT quantification added for october
 October data can be found in 'oct' folder**
 
 
