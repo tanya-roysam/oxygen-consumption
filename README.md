@@ -1,4 +1,4 @@
-- All flux data has been compiled and cut down to only days 0 through 6 of differentiation in 'all_compiled_flux_trunc.csv'.
+- All flux data has been compiled and cut down to only days 0 through 6 of differentiation in 'all_compiled.csv'. **'all_compiled_flux_trunc+oct.csv' truncates the last few observations off the end of the ts s/t all are the same length**
 - ** each row is an observation (one well on a plate during a specific experiment)
 - columns are as follows
 - CHIR: dose of CHIR administered
